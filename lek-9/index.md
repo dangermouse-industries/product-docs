@@ -4,7 +4,8 @@ The LEK-9 is a collection of nine assembled LED circuit boards supplied as a 3 �
 
 ## Documentation
 
-- User manual — coming soon
-- Example experiments — coming soon
+- [Download the LEK-9 User Manual](LED_Driver_Experimenters_Kit_Manual.pdf)
+
+The user manual includes circuit descriptions, specifications, connection diagrams, and hands-on experiments.
 
 [Return to DangerMouse Industries documentation](../)
