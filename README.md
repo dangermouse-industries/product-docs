@@ -9,6 +9,8 @@ LEK-9 LED Experimenter’s Kit
 
 DMX-415 Four-Channel DMX LED Driver
 
+XTK-1 Christmans Light Tester Kit
+
 Product documentation will be added as products become available.
 
 © 2026 DangerMouse Industries LLC. All rights reserved.
